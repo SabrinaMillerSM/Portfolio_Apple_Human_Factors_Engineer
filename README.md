@@ -27,22 +27,22 @@ The portfolio highlights my technical proficiency, research experience, and sele
 ## 🔹 Screenshots
 
 ### Hero Section
-![Hero Section](./Supporting_Files/Images/screenshot-hero.png)
+![Hero Section](./Supporting_Files/Images/Screenshots/screenshot_hero.png)
 
 ### Skills Section
-![Skills Section](./Supporting_Files/Images/screenshot-skills.png)
+![Skills Section](./Supporting_Files/Images/Screenshots/screenshot_skills.png)
 
 ### Project 1 – Biomechanical Data Analysis Application
-![Biomechanics App](./Supporting_Files/Images/screenshot-project1.png)
+![Biomechanics App](./Supporting_Files/Images/Screenshots/screenshot_project1.png)
 
 ### Project 2 – Dark Mode & Website Credibility Study
-![Dark Mode Study](./Supporting_Files/Images/screenshot-project2.png)
+![Dark Mode Study](./Supporting_Files/Images/Screenshots/screenshot_project2.png)
 
 ### Project 3 – Interactive Snakes & Ladders Game
-![Snakes & Ladders](./Supporting_Files/Images/screenshot-project3.png)
+![Snakes & Ladders](./Supporting_Files/Images/Screenshots/screenshot_project3.png)
 
 ### Contact Section
-![Contact Section](./Supporting_Files/Images/screenshot-contact.png)
+![Contact Section](./Supporting_Files/Images/Screenshots/screenshot_contact.png)
 
 ---
 
